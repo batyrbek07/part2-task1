@@ -1,4 +1,2 @@
-
-# print("Hello Batyrbek")
-a = ('Hello', 'Batyrbek''!')
-print(a)
+name = input("Enter your name: ")
+print("Hello",name, "!")
